@@ -9,17 +9,21 @@ This project is focused on extracting insights related to various sales patterns
 
 ### Database Structure:
 The Database consists of 4 different tables:
+
 **Customers** containing all the customer details and membership statuses
+
 **Products** containing the product catalogue and pricing
+
 **Sales** containing transactional sales data(products purchased, total amounts, customer details, etc)
+
 **Inventory** containing stock levels of the products in the catalogue
 
 ### Assumptions Made:
 No duplicated values in the transactional sales datasets
 
 ### Key Findings:
-The most expensive product is in the 'Electronics' category. Most of the affordable products are in the Accessories category
-Customers who purchased high quantities/units of the products bought from the accessories category (the most affordable category)
+- The most expensive product is in the 'Electronics' category. Most of the affordable products are in the Accessories category
+- Customers who purchased high quantities/units of the products bought from the accessories category (the most affordable category)
 
 ### Recommendations:
 - Focus marketing and stock high inventory in high-performing categories to generate more revenue for the business
