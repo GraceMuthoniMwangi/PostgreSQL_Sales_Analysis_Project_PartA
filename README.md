@@ -10,13 +10,13 @@ This project is focused on extracting insights related to various sales patterns
 ### Database Structure:
 The Database consists of 4 different tables:
 
-**Customers** containing all the customer details and membership statuses
+- **Customers** containing all the customer details and membership statuses
 
-**Products** containing the product catalogue and pricing
+- **Products** containing the product catalogue and pricing
 
-**Sales** containing transactional sales data(products purchased, total amounts, customer details, etc)
+- **Sales** containing transactional sales data(products purchased, total amounts, customer details, etc)
 
-**Inventory** containing stock levels of the products in the catalogue
+- **Inventory** containing stock levels of the products in the catalogue
 
 ### Assumptions Made:
 No duplicated values in the transactional sales datasets
