@@ -1,7 +1,7 @@
 # PostgreSQL_Sales_Analysis_Project_PartA
 
 ### Objectives:
-This project is focused on extracting insights related to various sales patterns, which are:
+This project was focused on extracting insights related to the various patterns as indicated below:
 - Determining customer purchasing behavior
 - Product performance
 - Sales trends
